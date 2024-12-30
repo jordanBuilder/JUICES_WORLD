@@ -1,16 +1,9 @@
 # juices_world
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Salut les gars !
+Au fait, vous auriez pas soif, vous ?
+Juices_World est une appli toute simple naviguer dans un petit catalogue de saveur et choisir le nectar qui étanchera votre soif.
+Cette appli consiste en seulement 2 pages.
+La premiere page vous offre 3 choix de saveurs; 
+La deuxieme page vous donne la possibilité d'acheter un verre du jus avec la saveur choisie.
+![JUICES_WORLD_PAGE_1](https://github.com/user-attachments/assets/e9bd21e4-8b99-4201-8fa9-4d2de99692c8)
